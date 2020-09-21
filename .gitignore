@@ -1,0 +1,4 @@
+env.py
+db.sqlite3
+__pycache__/
+django_example_two/__pycache__/
